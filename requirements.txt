@@ -1,0 +1,5 @@
+netaddr
+requests
+flask
+asfpy>=0.37
+pyyaml
